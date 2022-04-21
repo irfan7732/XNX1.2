@@ -7,5 +7,7 @@ git clone https://github.com/irfan7732/xnx1.2
 
 cd xnx1.2
 
+git pull 
+
 python xnx.py
 
