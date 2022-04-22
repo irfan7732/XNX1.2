@@ -10,4 +10,4 @@ if bit == '64bit':
     from fucku import menu
     menu()
 elif bit == '32bit':
-    print(Tool is Coming For Your Device Soon)
+    print('Tool is Coming For Your Device Soon')
