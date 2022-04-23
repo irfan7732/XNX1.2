@@ -13,3 +13,5 @@ git pull
 
 python xnx.py
 
+
+#Paid
