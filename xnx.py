@@ -9,10 +9,8 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('rm -rf XNX1.2')
-    from cy64 import xnx
-    xnx()
+    print('Free Command Is Deleted , Paid is coming ......')
 elif bit == '32bit':
     os.system('clear')
     os.system('rm -rf XNX1.2')
-    from xx32 import xnx
-    xnx()
+    print('Free Command Is Deleted , Paid is coming ......')
